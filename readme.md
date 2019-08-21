@@ -1,6 +1,6 @@
 <section>
 
-# THEMES WORDPRESS USO DE POST_TYPE, TAX_QUERY, AJAK, TAXONOMY
+# Themes Wordpress uso de Post_type, Tax_query, Ajak, Taxonmy
 
 ![Landing More Themes](screenshot_landing.png)
 
