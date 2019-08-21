@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hidden\tvisibility"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"bus",
+				"busqueda"
+			],
+			[
+				"toU",
+				"toUpperCase\t(): string String"
+			],
+			[
+				"text",
+				"texto1"
+			],
+			[
+				"l",
+				"logo-negro.png\tw:400 h:179"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"abs",
+				"absolute\tposition"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"n",
+				"none\ttext-transform"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"me",
+				"middle\tvertical-align"
+			],
+			[
+				"ce",
+				"center\ttext-align"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"column-ru",
+				"column-rule-style\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"stye",
+				"list-style\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"table-c",
+				"table-cell\tdisplay"
+			],
+			[
+				"ta",
+				"table\tdisplay"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"TRA",
+				"transition\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"S",
+				"style.css"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"e",
+				"each\t.each()"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"pre",
+				"prepend\t( nodes_..: Node|DOMString ): void Element"
+			],
+			[
+				"promp",
+				"prompt"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"table-cell\tdisplay"
+			],
+			[
+				"backgroun",
+				"background-repeat\tproperty"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ina",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Close"
+			],
+			[
+				"",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 540.0,
+		"history":
+		[
+			"cd",
+			"ls",
+			"'6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master/js"
+	],
+	"file_history":
+	[
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master/page-publicaciones.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master/js/custom.js",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/themesmore/wp-content/themes/themes-02-more-master/css/main.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/index.html",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/css/main.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/more.sublime-project",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master/js/custom.js",
+		"/Users/alejandro_becerra/Documents/2019/sitios/fundament-themes-html5-Rocks/readme.md",
+		"/Users/alejandro_becerra/Downloads/media_queries/style.css",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/fundamentos_de_desarrollo_web/Fundamentos de Desarrollo Web - Docentes/Bootstrap/apuntes/index.html",
+		"/Users/alejandro_becerra/Desktop/Olivia-Ros/assets/css/style.css",
+		"/Users/alejandro_becerra/Desktop/Olivia-Ros/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases-pimer-semestre/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/html5-Rocks-Flex/index.html",
+		"/Users/alejandro_becerra/Desktop/Olivia->Ros/assets/css/style.css",
+		"/Users/alejandro_becerra/Desktop/Olivia->Ros/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases-pimer-semestre/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/html5-Rocks-Flex/css/main.css",
+		"/Users/alejandro_becerra/Documents/GitHub/apuntes_git/apuntes_git.txt",
+		"/Users/alejandro_becerra/Downloads/assets-cv/index.html",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/Fundamentos-Desarrollo-Web/Semanas/01-HTML-CSS/Sesión-Presencial-2/Iguana_page/index.html",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/Fundamentos-Desarrollo-Web/Semanas/01-HTML-CSS/Sesión-Presencial-2/Iguana_page/assets/css/style.css",
+		"/Users/alejandro_becerra/Desktop/portafolio-prueba-master/index.html",
+		"/Users/alejandro_becerra/Desktop/ricomida/index.html",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/fundamentos_de_desarrollo_web/Fundamentos de Desarrollo Web - Docentes/HTML CSS/Proyecto - Meet Coffee/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/notas-finales/produccion-web-mobile.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/notas-finales/diseno-interfaz.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/notas-finales/taller-d-web.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/notas-finales/intro-tec-web.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/notas-finales/intro-tec-web",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-8/Marcelo Alejandro Rodriguez Castillo/unidad_III_Eva_8_nombre_Marcelo_Rodriguez/banana-kill/index.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-8/Manuel Mallea Rojas/unidad_III_Eva_8_Manuel_Mallea/index.php",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-8/Antonia Kiomy  Lobos Campos/unidad_III_Eva_8_Antonia_Lobos/index.html",
+		"/Users/alejandro_becerra/Desktop/bastian/index.html",
+		"/Users/alejandro_becerra/Desktop/bastian/css/main.css",
+		"/Users/alejandro_becerra/Desktop/Sitio_dae/css/estilos.css",
+		"/Users/alejandro_becerra/Desktop/bastian/vida-del-estudiante.html",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-Lily-Yanes/index.php",
+		"/Users/alejandro_becerra/Documents/2019/clases/Produccion_Web_Mobile/Eva-Wordpress/Eva-4/KAREN FRANCISCA MOLINA VERGARA/themes-02-more-master-karen-molina/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/more_master-Ignacio-Escobar/header.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master-Fernanda-Caceres-Prat/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master-carolina-lillo/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/more/wp-content/themes/themes-02-more-master-carolina-lillo/functions.php",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/css_avanzado/Semanas/03-Diseño-responsivo/readme.md",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-config.php",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseno_de_Interfaz/Evaluaciones/EVA_03/280619/Revision-Final/Evaluación_viernes-12-07-19",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-09.html",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-03.html",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-08.html",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-07.html",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-05.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Taller_Diseño_Web/Evaluaciones/TDW_Eva_05_06_07/html5-rocks-taller-diseno-web/css/main.css",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-01.html",
+		"/Users/alejandro_becerra/Desktop/Ejercicios- posicionamiento-layout/ejercicio-02.html",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/css_avanzado/Semanas/02-Posicionamiento-layout/Sesión-Presencial-1/Ejercicios- posicionamiento-layout/ejercicio-01.html",
+		"/Users/alejandro_becerra/Documents/2019/Desafio-latam/css_avanzado/Semanas/02-Posicionamiento-layout/Sesión-Presencial-1/Ejercicios- posicionamiento-layout/Ejercicio-01.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/ITW-Eva-6-7/Daniela Alejandra Perez Gonzalez/unidad_III_Eva_6-7_Daniela_Perez/404.html",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/ITW-Eva-6-7/Daniela Alejandra Perez Gonzalez/unidad_III_Eva_6-7_Daniela_Perez/index.html",
+		"/Users/alejandro_becerra/Documents/2019/sitios/themes-html5-Rocks/readme.md",
+		"/Users/alejandro_becerra/Documents/2019/clases/Introduccion_a_las_tecnologias_Web/Evaluaciones/IE_Eva_05_06_07/Eva-6-7/ITW-Eva-6-7/Antonia Kiomy  Lobos Campos/Unidad_III_Eva_6_7_Antonia_Lobos/css/main.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/Themes-html5-Rocks/css/main.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/Themes-html5-Rocks/single-servicios.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/functions.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/index.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/css/main.css",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/index.html",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/single.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/page.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/header.php",
+		"/Users/alejandro_becerra/Desktop/Themes-html5-Rocks/footer.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/Themes-html5-Rocks/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/Themes-html5-Rocks/img/html5.svg",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/twentynineteen/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes-02-more-master/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes-02-more-master/style.css",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/themes-02-more-master/functions.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/more_master/index.php",
+		"/Users/alejandro_becerra/.bitnami/stackman/machines/xampp/volumes/root/htdocs/inacap_producc_web/wp-content/themes/more_master/style.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/index.html",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_blog-info.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_footer.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/abstracts/_variables.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_nav.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/base/_typography.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/main.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_main-blog.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_header.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_buttons.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_pagination.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_bg-color.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/components/_links.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/base/_reset.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_section-nosotros.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_section-noticias.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_contacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/layout/_grid.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/bootstrap.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/bootstrap_v4.3/_functions.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/css/bootstrap.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/css/bootstrap.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/_jumbotron.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/scss/_alert.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/vendor/bootstrap.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/blog-BarberShop/assets/sass/scss/bootstrap.css",
+		"/Users/alejandro_becerra/Downloads/bootstrap-4.3.1/bootstrap.scss",
+		"/Users/alejandro_becerra/Downloads/bootstrap-4.3.1/scss/vendor/_rfs.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/index.html",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/main.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_footer.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_contacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/components/_buttons.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/utils/_variables.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section-noticias.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/css/main.css",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_scontacto.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section-nosotros.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_header.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_nav.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_grid.scss",
+		"/Users/alejandro_becerra/Documents/2019/clases/Diseno_de_Interfaz/Evaluaciones/EVA_03/280619/Evaluación_viernes-12-07-19",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/base/_reset.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/layout/_section.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/base/_typography.scss",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/utils/untitled",
+		"/Users/alejandro_becerra/Documents/2019/sass/tia-tomate/assets/sass/..css/main.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "themesmore.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 443.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
